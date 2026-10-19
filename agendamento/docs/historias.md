@@ -1,6 +1,4 @@
-Sistema de Agendamento de Monitorias 
-
-Alunos: Felipe Higashi e Nathália Rodrigues 
+Sistema de Agendamento de Monitorias
 
 Histórias de usuário:
 

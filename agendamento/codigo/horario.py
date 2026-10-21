@@ -16,4 +16,4 @@ class Horario:
         return len(self.alunos) >= self.capacidade 
     def horario_livre(self, agora):
         return not self.cancelado and self.inicio > agora and not self.lotado()
-    # se horario nao for cancelado, se nao aconteceu e aidna tem vaga, retorna True
+    # se horario nao for cancelado, se nao aconteceu e ainda tem vaga, retorna True

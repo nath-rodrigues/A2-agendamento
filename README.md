@@ -23,7 +23,7 @@ Nathália Rodrigues - 2670097
 | 19/10 | Implementação, em conjunto | Dividida por arquivos: `Horario` e `Reserva`; `excecoes.py` e `SistemaReservas` | Nathália e Felipe. |
 | 20/10 | Testes de aceitação | 10 testes, todos passando | Felipe. |
 | 21/10 | Documentação e relatório | README, `main.py`, PDF | Nathália. |
-| 22/10 | Autoavaliação e envio |  | Felipe e Nathália. |
+| 22/10 | Autoavaliação e envio | Revisão feita | Felipe e Nathália. |
 
 ### 2.3 Atrasos e mudanças em relação ao projeto inicial
 

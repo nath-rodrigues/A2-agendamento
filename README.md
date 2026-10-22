@@ -32,4 +32,4 @@ Nathália Rodrigues - 2670097
 3. **Arquivos:** o código ficou em `horario.py`, `reserva.py`, `sistema_reservas.py` e `excecoes.py`, para separar responsabilidades e evitar conflitos entre os dois integrantes.
 4. **Exceções:** o projeto inicial dizia apenas "avisa com um erro"; foi criada uma exceção para cada regra, para que cada teste verifique exatamente a regra que falhou.
 5. **Semana:** o limite de 2 reservas usa a semana ISO (segunda a domingo), que o projeto inicial não definia.
-6. **`main.py`:** adicionado para demonstrar o sistema funcionando.
+6. **`main.py`:** demo com dados fixos adicionada para demonstrar o sistema funcionando.

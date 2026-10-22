@@ -33,5 +33,3 @@ Nathália Rodrigues - 2670097
 4. **Exceções:** o projeto inicial dizia apenas "avisa com um erro"; foi criada uma exceção para cada regra, para que cada teste verifique exatamente a regra que falhou.
 5. **Semana:** o limite de 2 reservas usa a semana ISO (segunda a domingo), que o projeto inicial não definia.
 6. **`main.py`:** adicionado para demonstrar o sistema funcionando.
-
-**Atrasos:** não houve atrasos em relação ao plano.

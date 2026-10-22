@@ -1,7 +1,6 @@
 # Sistema de Agendamento de Monitorias
 
-Felipe Higashi - 2669986
-Nathália Rodrigues - 2670097
+Felipe Higashi - 2669986  Nathália Rodrigues - 2670097
 
 ## 2. Relatório de execução
 
@@ -9,9 +8,9 @@ Nathália Rodrigues - 2670097
 
 - **Python:** 3.13 ou superior.
 - **Bibliotecas:** nenhuma externa (apenas `datetime` e `unittest`, da biblioteca padrão).
-- **Arquivo principal:** `agendamento/codigo/main.py`.
-- **Executar o sistema:** `cd agendamento/codigo` e depois `python main.py`.
-- **Executar os testes:** `cd agendamento/codigo` e depois `python -m unittest -v test_reserva`.
+- **Arquivo principal:** `codigo/main.py`.
+- **Executar o sistema:** `cd codigo` e depois `python main.py`.
+- **Executar os testes:** `cd codigo` e depois `python -m unittest -v test_reserva`.
 
 ### 2.2 Plano e execução
 
@@ -23,7 +22,7 @@ Nathália Rodrigues - 2670097
 | 19/10 | Implementação, em conjunto | Dividida por arquivos: `Horario` e `Reserva`; `excecoes.py` e `SistemaReservas` | Nathália e Felipe. |
 | 20/10 | Testes de aceitação | 10 testes, todos passando | Felipe. |
 | 21/10 | Documentação e relatório | README, `main.py`, PDF | Nathália. |
-| 22/10 | Autoavaliação e envio | **[PREENCHER]** | Felipe e Nathália. |
+| 22/10 | Autoavaliação e envio |  | Felipe e Nathália. |
 
 ### 2.3 Atrasos e mudanças em relação ao projeto inicial
 

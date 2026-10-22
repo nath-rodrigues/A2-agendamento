@@ -1,6 +1,7 @@
 # Sistema de Agendamento de Monitorias
 
-Felipe Higashi - 2669986  Nathália Rodrigues - 2670097
+Felipe Higashi - 2669986\
+Nathália Rodrigues - 2670097
 
 ## 2. Relatório de execução
 
